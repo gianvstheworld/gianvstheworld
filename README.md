@@ -1,4 +1,4 @@
-<h1 align="left"> 🤝 Hello there! I'm Gianluca Capezzuto</h1>
+<h1 align="left"> 🤝 Hello there! I'm Gianluca Capezzuto 🤝</h1>
 
 - 🤖 I'm currently part of **[SEMEAR]**
 - 🎎 Working on a **[Mini-sumo]** project
