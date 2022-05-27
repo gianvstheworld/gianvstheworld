@@ -1,7 +1,9 @@
 <h1 align="left"> 🤝 Hello there! I'm Gianluca Capezzuto 🤝</h1>
 
+- 📚 Graduating in Electrical Engineering at EESC-USP
 - 🤖 I'm currently part of **[SEMEAR]**
 - 🎎 Working on a **[Mini-sumo]** project
+- 📲 Currently fascinated about learning Artificial Intelligence and its applications
 
  <div>
   <a href="https://github.com/gianvstheworld">
