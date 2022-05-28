@@ -2,7 +2,7 @@
 
 - 📚 Graduating in Electrical Engineering at EESC-USP
 - 🤖 I'm currently part of **[SEMEAR]**
-- 🎎 Working on a **[Mini-sumo]** project
+- 🚗 Working on a autonomous car project
 - 📲 Currently fascinated about learning Artificial Intelligence and its applications
 
  <div>
@@ -32,4 +32,3 @@
 <!-- links -->
 
 [SEMEAR]: https://github.com/Grupo-SEMEAR-USP "Grupo SEMEAR - EESC/USP"
-[Mini-sumo]: https://github.com/Grupo-SEMEAR-USP/Mini-Sumo2021 "Mini-sumo Repository"
