@@ -1,8 +1,8 @@
 <h1 align="left"> 🤝 Hello there! I'm Gianluca Capezzuto 🤝</h1>
 
-- 📚 Graduating in Electrical Engineering at EESC-USP
-- 🤖 I'm currently part of **[SEMEAR]**
-- 🚗 Working on a autonomous car project
+- 📚 Undergraduate in Electrical Engineering at EESC-USP
+- 🤖 I'm currently part of **Grupo [SEMEAR]**
+- 🚗 Working on a traversability prediction neural network
 - 📲 Currently fascinated about **embedded systems** and **deep learning**
 
  <div>
