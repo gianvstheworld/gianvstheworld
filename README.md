@@ -3,7 +3,7 @@
 - 📚 Undergraduate in Electrical Engineering at EESC-USP
 - 🤖 I'm currently part of **Grupo [SEMEAR]**
 - 🚗 Working on a traversability prediction neural network
-- 📲 Currently fascinated about **embedded systems** and **deep learning**
+- 📲 Currently fascinated about **robotics** and **deep learning**
 
  <div>
   <a href="https://github.com/gianvstheworld">
