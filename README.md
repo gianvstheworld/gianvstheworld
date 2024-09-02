@@ -1,7 +1,9 @@
 <h1 align="left"> Hi there, I'm Gianluca Capezzuto 👋</h1>
-I'm an Electrical Engineering student at the University of São Paulo who enjoys solving difficult engineering problems at the intersections of **software, AI and robotics**. 
-- Currently, I am in my university's robotics team **[SEMEAR] Group**
-- I am working under Professor Marcelo Becker researching autonomous robots using the [Terrasentia](https://www.earthsense.co/terrasentia) platform
+
+### About me
+I'm an Electrical Engineering student at the University of São Paulo who enjoys solving difficult engineering problems at the intersections of **software, AI, and robotics**. 
+- Currently, I am in my university's robotics team [SEMEAR] Group
+- I am working under Professor Marcelo Becker researching autonomous robots using the [Terrasentia] platform
 
 ### Past
 - I interned at [DASLAB](http://daslab.illinois.edu/) improving the performance of a neural network that predicts traversability by applying Prototypical Contrastive Learning, developing the semantics for unexplored environments
@@ -48,6 +50,7 @@ I love meeting people and striking up new conversations!
 [SEMEAR]: https://github.com/Grupo-SEMEAR-USP "Grupo SEMEAR - EESC/USP"
 [instagram]: https://www.instagram.com/gian_lucaaaa
 [linkedin]: https://www.linkedin.com/in/gianluca-capezzuto
+[Terrasentia]: https://www.earthsense.co/terrasentia
 
 
 
