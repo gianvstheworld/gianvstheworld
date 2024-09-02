@@ -14,10 +14,9 @@ I'm an Electrical Engineering student at the University of São Paulo who enjoys
 - I obtained my technical degree in Industrial Mechanics at the age of 17
 
 ### Connect with me 
-[<img align="left" alt="Gianluca Capezzuto Sardinha | LinkedIn" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gianluca Capezzuto | Instagram" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-
 <div> 
+   <a href = [linkedin]><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = [Instagram]><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:gianlucacapezzuto@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://open.spotify.com/playlist/1wO3KURMMfFFeh4qrelMkO?si=38e16643a30c413b"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
