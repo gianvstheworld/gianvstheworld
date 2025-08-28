@@ -1,13 +1,12 @@
 <h1 align="left"> Hi there, I'm Gianluca Capezzuto 👋</h1>
 
 ### About me
-I'm an Electrical Engineering student at the University of São Paulo who enjoys solving difficult engineering problems at the intersections of **software, AI, and robotics**. 
-- Currently, I am in my university's robotics team [SEMEAR] Group
-- I am working under Professor Marcelo Becker researching autonomous robots using the [Terrasentia] platform
+I'm an M.Sc. candidate at the University of São Paulo who enjoys solving challenging engineering problems at the intersection of **software, AI, and robotics**. 
+- I work with Professor Marcelo Becker on traversability prediction and autonomous navigation in unstructured environments.
 
 ### Past
-- I interned at [DASLAB](http://daslab.illinois.edu/) improving the performance of a neural network that predicts traversability by applying Prototypical Contrastive Learning, developing the semantics for unexplored environments
-- I was heavily involved in the [SEMEAR] building **automation process robots** as well **humanoid robots** in the context of extension and culture 
+- I interned at [DASLAB](http://daslab.illinois.edu/), improving the performance of a neural network that predicts traversability by applying Prototypical Contrastive Learning, developing the semantics for unexplored environments
+- I was heavily involved in the [SEMEAR] building **automation process robots** as well as **humanoid robots** in the context of extension and culture 
 
 ### Fun Facts
 - I enjoy lifting and running. Now, I'm training to run my first half-marathon 🐢
