@@ -1,7 +1,7 @@
 <h1 align="left"> Hi there, I'm Gianluca Capezzuto 👋</h1>
 
 ### About me
-I'm an M.Sc. candidate at the University of São Paulo who enjoys solving challenging engineering problems at the intersection of **software, AI, and robotics**. 
+I'm an M.Sc. student at the University of São Paulo who enjoys solving challenging engineering problems at the intersection of **software, AI, and robotics**. 
 - I work with Professor Marcelo Becker on traversability prediction and autonomous navigation in unstructured environments.
 
 ### Past
